@@ -1,0 +1,7 @@
+--- Simulation Results ---
+Total tasks processed: 165
+Processed in Fog: 115
+Processed in Cloud: 50
+Average completion time: 4.12 seconds
+Max completion time: 9.00 seconds
+Min completion time: 2.00 seconds
